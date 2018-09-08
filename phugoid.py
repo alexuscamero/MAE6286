@@ -131,3 +131,4 @@ def plot_flight_path(zt, z0, theta0, N=1000):
     ax.plot(x, -z, linestyle='-', linewidth=2.0)
     ax.axis('scaled', adjustable='box')
     pyplot.show()
+    
